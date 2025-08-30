@@ -28,7 +28,3 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Optional: TypeScript build output
-*.js
-*.js.map
